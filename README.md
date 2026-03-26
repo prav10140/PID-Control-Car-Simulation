@@ -49,6 +49,7 @@ Where:
 ---
 
 ## Experiment 1: Proportional Only (Kp)
+**Parameters:**
 Kp = 3
 Ki = 0
 Kd = 0
