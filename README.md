@@ -16,7 +16,6 @@ The system moves a car to a target distance using PID control and shows how tuni
 - Observe real-time motion in a 3D simulation (React)  
 - Perform PID tuning experiments  
 
----
 
 ## PID Controller Equation
 
@@ -46,7 +45,7 @@ Where:
 
 # Experiments (PID Tuning)
 
----
+
 
 ## Experiment 1: Proportional Only (Kp)
 **Parameters:**
@@ -64,7 +63,7 @@ Kd = 0
 
 
 
----
+
 
 ## Experiment 2: Add Derivative (Kd)
 
@@ -83,7 +82,7 @@ Kd = 8
 <img width="1895" height="1070" alt="Screenshot 2026-03-27 020458" src="https://github.com/user-attachments/assets/7bfdeff9-c602-4743-bdfe-84efbc2ad421" />
 
 
----
+
 
 ## Experiment 3: Add Integral (Ki)
 
@@ -103,7 +102,7 @@ Kd = 2
 
 
 
----
+
 
 # Final Tuned PID (Best Result)
 
@@ -130,7 +129,7 @@ Kd = 6.5
 - **Kd → Stability (reduces oscillation)**
 - **Ki → Accuracy (removes error)**
 
----
+
 
 # Conclusion
 
@@ -146,7 +145,7 @@ It demonstrates how PID tuning directly affects system performance in both mathe
 - React.js  
 - Three.js / React Three Fiber (for 3D simulation)
 
----
+
 
 # Future Improvements
 
