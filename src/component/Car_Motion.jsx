@@ -263,7 +263,7 @@ export default function CarMotion() {
     <div className="sim-container">
       <div className="sim-sidebar">
         <header className="sim-header">
-          <h1>PID-CONTROL_CAR</h1>
+          <h1>PID-CONTROL-CAR</h1>
           <p>Absolute Position Control</p>
         </header>
 
