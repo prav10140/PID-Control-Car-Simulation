@@ -39,7 +39,9 @@ Where:
 ### React 3D Simulation
 - Visualizes car movement in real-time  
 - Shows how PID affects motion  
-- Interactive and intuitive understanding  
+- Interactive and intuitive understanding
+  
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/885a2b92-689e-4ee3-a3df-10f9b80a9248" />
 
 ---
 
