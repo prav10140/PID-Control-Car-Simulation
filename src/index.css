@@ -1,0 +1,24 @@
+/* index.css or App.css */
+
+/* 1. Remove default browser margins and padding */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden; /* Prevents accidental scrolling */
+}
+
+/* 2. Ensure all elements calculate width/height accurately */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* 3. Make sure the React root element takes up the whole screen */
+#root {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
